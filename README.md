@@ -6,8 +6,8 @@ Este proyecto consiste en un **CRUD de Marcas** con un **backend en Python (Fast
 
 ## 🌐 Acceso Público
 
-- **Frontend desplegado:** [https://tu-frontend.vercel.app]
-- **Backend desplegado:** [https://tu-backend.onrender.com]
+- **Frontend desplegado:** [https://registro-de-marcas.vercel.app/]
+- **Backend desplegado:** [https://registro-de-marcas.onrender.com]
 
 ---
 
