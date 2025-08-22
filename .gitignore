@@ -1,0 +1,40 @@
+# Dependencias de Node.js
+node_modules/
+package-lock.json
+
+# Entorno virtual de Python
+venv/
+ENV/
+env/
+.venv/
+
+# Archivos de configuración locales
+.env
+*.env
+
+# Archivos de logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# Cache de Next.js
+.next/
+out/
+dist/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Compilados de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos temporales
+*.swp
+*.swo
+*.tmp
+*.bak
