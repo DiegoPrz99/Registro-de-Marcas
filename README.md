@@ -1,13 +1,13 @@
 # 🏢 Sistema de Gestión de Marcas
 
 Este proyecto consiste en un **CRUD de Marcas** con un **backend en Python (FastAPI + SQLite)** y un **frontend en Next.js + React**, desarrollado como prueba técnica.
-
+El link del Repositorio donde se encuentra el codigo -> **https://github.com/DiegoPrz99/Registro-de-Marcas**
 ---
 
 ## 🌐 Acceso Público
 
 - **Frontend desplegado:** [https://registro-de-marcas.vercel.app/]
-- **Backend desplegado:** [https://registro-de-marcas.onrender.com]
+- **Backend desplegado:** [https://backend-production-d19e.up.railway.app/]
 
 ---
 
